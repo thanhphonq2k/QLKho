@@ -1,0 +1,291 @@
+E:\C#\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe.config
+E:\C#\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe
+E:\C#\QL_Kho\QL_Kho\bin\Debug\QL_Kho.pdb
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Images.v19.2.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Data.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csprojAssemblyReference.cache
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmMain.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucKhachHang.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe.licenses
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CoreCompileInputs.cache
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CopyComplete
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNguoiDung.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucChucVu.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucDonVi.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHangHoa.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhaCungCap.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHT_ThanhToan.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTrangChu.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhapKho.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucXuatKho.resources
+E:\C#\QL_Kho\QL_Kho\bin\Debug\AxShockwaveFlashObjects.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.Shared.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\ShockwaveFlashObjects.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\stdole.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBaoCao.resources
+E:\C#\QL_Kho\QL_Kho\bin\Debug\BouncyCastle.Crypto.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\itextsharp.dll
+E:\C#\QL_Kho\QL_Kho\bin\Debug\itextsharp.xml
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBCHangHoa.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHoaDon.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNha.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTaiKhoan.resources
+E:\C#\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHoaDon.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNha.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHoaDon.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmMain.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBaoCao.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBCHangHoa.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucChucVu.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucDonVi.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHangHoa.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHoaDon.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHT_ThanhToan.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucKhachHang.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNguoiDung.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhaCungCap.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhapKho.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTaiKhoan.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTrangChu.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucXuatKho.resources
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe.licenses
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+C:\Users\Dell\Downloads\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNha.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHoaDon.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmMain.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBaoCao.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBCHangHoa.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucChucVu.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucDonVi.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHangHoa.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHoaDon.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHT_ThanhToan.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucKhachHang.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNguoiDung.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhaCungCap.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhapKho.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTaiKhoan.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTrangChu.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucXuatKho.resources
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe.licenses
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+E:\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe.config
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\QL_Kho.pdb
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\BouncyCastle.Crypto.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Data.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\itextsharp.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ShockwaveFlashObjects.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\stdole.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Images.v19.2.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Data.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\itextsharp.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNha.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHoaDon.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmMain.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBaoCao.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucBCHangHoa.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucChucVu.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucDonVi.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHangHoa.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHoaDon.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucHT_ThanhToan.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucKhachHang.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNguoiDung.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhaCungCap.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucNhapKho.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTaiKhoan.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucTrangChu.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.UserControls.ucXuatKho.resources
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe.licenses
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CoreCompileInputs.cache
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CopyComplete
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+E:\C# - MVC\Winform\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
